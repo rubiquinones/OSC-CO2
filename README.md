@@ -19,8 +19,11 @@ This is the code for the implementation of the paper: **OSC-CO2: Coattention and
 
 ## Dataset
 The original dataset, CosegPP, can be found at: https://doi.org/10.5281/zenodo.5117176
-If you use the original dataset, please site the following:
+
+  If you use the original dataset, please site the following:
+  
 •	Quiñones, Rubi, Munoz Arriola, Francisco, Das Choudhury, Sruti, & Samal Ashok. (2021). Cosegmentation for Plant Phenotyping (CosegPP) Data Repository Collected Via a High-Throughput Imaging System [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5117176
+  
 •	Quiñones R, Munoz-Arriola F, Choudhury SD, Samal A (2021) Multi-feature data repository development and analytics for image cosegmentation in high-throughput plant phenotyping. PLoS ONE 16(9): e0257001. https://doi.org/10.1371/journal.pone.0257001
   
 If you use the expansion version of CosegPP, which is the one OSC-CO2 uses, please site this paper
