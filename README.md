@@ -18,8 +18,13 @@ This is the code for the implementation of the paper: **OSC-CO2: Coattention and
 - math
 
 ## Dataset
-The system was trained on the CosegPP Extension Data Repository (with ground truth data):
-<Insert link here>
+The original dataset, CosegPP, can be found at: https://doi.org/10.5281/zenodo.5117176
+If you use the original dataset, please site the following:
+•	Quiñones, Rubi, Munoz Arriola, Francisco, Das Choudhury, Sruti, & Samal Ashok. (2021). Cosegmentation for Plant Phenotyping (CosegPP) Data Repository Collected Via a High-Throughput Imaging System [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5117176
+•	Quiñones R, Munoz-Arriola F, Choudhury SD, Samal A (2021) Multi-feature data repository development and analytics for image cosegmentation in high-throughput plant phenotyping. PLoS ONE 16(9): e0257001. https://doi.org/10.1371/journal.pone.0257001
+  
+If you use the expansion version of CosegPP, which is the one OSC-CO2 uses, please site this paper
+• TO BE ADDED LATER
 
 Make sure to put the 'CosegPP_extension' and the 'CosegPP_extension_ground_truth' folder in the 'OSCCO2' folder
 ```
@@ -38,7 +43,7 @@ Make sure to put the 'CosegPP_extension' and the 'CosegPP_extension_ground_truth
 
 This module is ran in Jupyter Notebook and the file is 'object_mask_refinment.ipynb'. You may create a new environment with the listed dependencies or import our 'env_oscco2.yml' by using the following code in the terminal: 'conda env create -f env_oscoo2.yml'. 
 
-### 2. Mask Generalization
+### 2. Final Joint Mask Generation
 
 This module is ran via command prompt and the file is 'mask_optimization.py'. You may need to edit the file to input your own paths to the images. 
 
