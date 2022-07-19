@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the code for the implementation of the paper: **OSC-CO2: Coattention and Cosegmentation Framework For Object State Change With Multiple Features** by Rubi Quiñones, Author2, Author3, Author 4. 
+This is the code for the implementation of the paper: **OSC-CO2: Coattention and Cosegmentation Framework For Object State Change With Multiple Features** by Rubi Quiñones, Ashok Samal, Sruti Das Choudhury, and Francisco Munoz-Arriola. 
 <Insert link to paper>
 
 ## Dependencies
@@ -26,7 +26,7 @@ The original dataset, CosegPP, can be found at: https://doi.org/10.5281/zenodo.5
   
 •	Quiñones R, Munoz-Arriola F, Choudhury SD, Samal A (2021) Multi-feature data repository development and analytics for image cosegmentation in high-throughput plant phenotyping. PLoS ONE 16(9): e0257001. https://doi.org/10.1371/journal.pone.0257001
   
-If you use the expansion version of CosegPP, which is the one OSC-CO2 uses, please site this paper
+If you use the expansion version of CosegPP, which is the one OSC-CO2 uses, please cite this paper:
 • TO BE ADDED LATER
 
 Make sure to put the 'CosegPP_extension' and the 'CosegPP_extension_ground_truth' folder in the 'OSCCO2' folder
