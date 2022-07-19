@@ -19,6 +19,7 @@ This is the code for the implementation of the paper: **OSC-CO2: Coattention and
 
 ## Dataset
 The original dataset, CosegPP, can be found at: https://doi.org/10.5281/zenodo.5117176
+CosegPP_extension and CosegPP+ are the same dataset. Sometimes different systems do not like the '+' symbol so there are areas that interchangeably use extension instead of '+'
 
   If you use the original dataset, please site the following:
   
